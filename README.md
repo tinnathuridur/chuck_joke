@@ -1,3 +1,5 @@
+[![Build Status] (https://travis-ci.org/tinnathuridur/chuck_joke.png)](https://travis-ci.org/tinnathuridur/chuck_joke)
+
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
